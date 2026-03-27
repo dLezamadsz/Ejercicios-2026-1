@@ -1,0 +1,7 @@
+C:\Users\diava\OneDrive\Escritorio\taller 2026-1\ejercicios\Ejercicios-2026-1\TallerEjercicios\bin\Debug\TallerEjercicios.exe.config
+C:\Users\diava\OneDrive\Escritorio\taller 2026-1\ejercicios\Ejercicios-2026-1\TallerEjercicios\bin\Debug\TallerEjercicios.exe
+C:\Users\diava\OneDrive\Escritorio\taller 2026-1\ejercicios\Ejercicios-2026-1\TallerEjercicios\bin\Debug\TallerEjercicios.pdb
+C:\Users\diava\OneDrive\Escritorio\taller 2026-1\ejercicios\Ejercicios-2026-1\TallerEjercicios\obj\Debug\TallerEjercicios.csproj.AssemblyReference.cache
+C:\Users\diava\OneDrive\Escritorio\taller 2026-1\ejercicios\Ejercicios-2026-1\TallerEjercicios\obj\Debug\TallerEjercicios.csproj.CoreCompileInputs.cache
+C:\Users\diava\OneDrive\Escritorio\taller 2026-1\ejercicios\Ejercicios-2026-1\TallerEjercicios\obj\Debug\TallerEjercicios.exe
+C:\Users\diava\OneDrive\Escritorio\taller 2026-1\ejercicios\Ejercicios-2026-1\TallerEjercicios\obj\Debug\TallerEjercicios.pdb
